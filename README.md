@@ -13,7 +13,6 @@ The AI agent in this project is designed to provide an unbeatable challenge to h
 - Python: The AI agent's logic and game implementation are written in Python.
 - Pygame: The graphical user interface for the Tic-Tac-Toe game is designed using the library to enhance user experience.
 - Minimax Algorithm: The AI uses the Minimax algorithm to make strategic decisions.
-- Alpha-Beta Pruning: The AI enhances its decision-making process using the Alpha-Beta Pruning optimisation technique.
 
 ## Installation
 To run the Tic-Tac-Toe game with the AI agent, ensure you have Python and Pygame installed on your system. You can install Pygame using the following command:
@@ -21,7 +20,8 @@ To run the Tic-Tac-Toe game with the AI agent, ensure you have Python and Pygame
 ``` pip install pygame ```
 
 ## Usage
-Run the Python script to start the unbeatable Tic-Tac-Toe AI game. Follow the game instructions to change game modes and experience the thrill of a challenging game.
+Run the Python script to start the unbeatable Tic-Tac-Toe AI game. Follow the game instructions to change game modes and experience the thrill of a challenging game. version 2 of the game is available: 
+(Ultimate TicTacThinker Game){https://github.com/techgirldiaries/Ultimate-TicTacThinker-Game}
 
 ## Game Instructions
 - press 'g' to change game mode (ai or pvp)
