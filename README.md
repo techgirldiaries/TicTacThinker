@@ -3,7 +3,7 @@
 This project features an AI agent that plays the classic game of Tic-Tac-Toe against a human player, utilising advanced algorithms such as Minimax with Alpha-Beta Pruning to guarantee an unbeatable experience.
 
 ## Project Overview
-The AI agent in this project is designed to provide an unbeatable challenge to human players in the classic game of Tic-Tac-Toe. By implementing the Minimax algorithm with Alpha-Beta Pruning, the AI evaluates and selects optimal moves to ensure victory or a draw in every game.
+The AI agent in this project is designed to provide an unbeatable challenge to human players in the classic game of Tic-Tac-Toe. By implementing the Minimax algorithm with Alpha-Beta Pruning, the AI evaluates and selects optimal moves to ensure victory or a draw in every game. 
 
 ## Features
 - Unbeatable AI: The AI agent is programmed to make optimal moves using the Minimax algorithm with Alpha-Beta Pruning, guaranteeing a challenging and unbeatable experience for human players.
