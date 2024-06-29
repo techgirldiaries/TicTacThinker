@@ -12,7 +12,7 @@ The AI agent in this project is designed to provide an unbeatable challenge to h
 ## Technologies Used
 - Python: The AI agent's logic and game implementation are written in Python.
 - Pygame: The graphical user interface for the Tic-Tac-Toe game is designed using the library to enhance user experience.
-- Minimax Algorithm: The AI uses the Minimax algorithm to make strategic decisions.
+- Minimax Algorithm: The AI uses the Minimax algorithm to make strategic moves and decisions.
 
 ## Installation
 To run the Tic-Tac-Toe game with the AI agent, ensure you have Python and Pygame installed on your system. You can install Pygame using the following command:
